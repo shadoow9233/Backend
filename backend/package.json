@@ -1,0 +1,16 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "js series",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "type":"module",
+    "proxy": "http://localhost:3000"
+  },
+  "author": "shadow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
